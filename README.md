@@ -2,7 +2,7 @@
 
 Feel free to solve, I'd be glad to see that you reached the end!
 
-Hints for parts you may be stuck on: Its not Base64, {Hash} Comment Section of 3301, and Replace W with S.
+Hints for parts you may be stuck on: Its not Base64, {Hash} Comment Section of 3301 by Lemino, and Replace W with S.
 
 ## How To Solve.
 
