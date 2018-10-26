@@ -12,6 +12,6 @@ Read the text file... Shocker right?
 
 Its not Base64
 
-{Hash} Comment Section of 3301 by Lemino
+{Hash} Comment Section of 3301 by Lemino. Look for date, and the username I gave you.
 
 Replace W with S, google it if you have to; its a communication tool, then login.
